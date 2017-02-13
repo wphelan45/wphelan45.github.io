@@ -1,0 +1,39 @@
+body {
+	background: yellow;
+	margin: 10px 20px 10px 20px;
+	text-align: center;
+}
+
+img {
+	padding: 10px 20px 10px 20px;
+	border: solid;
+
+}
+
+#imgsize {
+	width: 25%;
+	height: 25%;
+}
+
+a.linkcolor:visited {
+	color: black;
+}
+
+#color {
+	background-image: url(http://f.ora.tv/i/hp_rubinreport_mobile_320x355.jpg);
+	color: white;
+	height: 355px;
+	width: 320px;
+}
+
+a#color:link {
+	color: yellow;
+}
+
+a#color:visited {
+	color: white;
+}
+
+.font {
+	font-family: Arial, Helvetica, sans-serif;
+}
